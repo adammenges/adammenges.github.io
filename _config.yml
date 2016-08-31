@@ -1,0 +1,38 @@
+# Site settings
+title:       adammenges
+email:       adam@adammenges.com
+author:      Adam Menges
+description: ""
+baseurl:     ""
+url:         "http://blog.adammenges.com"
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: true
+github_username: adammenges
+stackoverflow_id:
+twitter_username: adammenges
+google_plus_id: +AdamMenges
+linkedin_username: adammenges
+bitcoin_url:
+angellist_username: adammenges
+paypal_url:
+flattr_button:
+
+# Build settings
+permalink:    pretty
+paginate:     10000
+sass:
+  compressed: true
+include: ["keybase.txt"]

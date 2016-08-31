@@ -1,0 +1,51 @@
+https://keybase.io/adammenges
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.adammenges.com
+  * I am adammenges (https://keybase.io/adammenges) on keybase.
+  * I have a public key ASBkA02cA-GFCraA2pvDHa8p3Prx7KydhOBh7ohTj-0qCAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a93426bbcfce5b37d45888fb7e473dc470b8891dda10ee32bc99bc6070c3df0d0a",
+            "host": "keybase.io",
+            "kid": "012064034d9c03e1850ab680da9bc31daf29dcfaf1ecac9d84e061ee88538fed2a080a",
+            "uid": "c34ff02e76dfc2f45ff5da597e97bf00",
+            "username": "adammenges"
+        },
+        "service": {
+            "hostname": "blog.adammenges.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.6"
+    },
+    "ctime": 1456036975,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1456036767,
+        "hash": "d5aa24d07b4c9e0c79e9af557560edcd91fbf79be8156c0c5a03f41beb27abd95c6736b025afa9fceddb5272282616570ccb19dfc1650b25be7bc255fe3072a3",
+        "seqno": 391079
+    },
+    "prev": "998c4862a0f0cfff120fe3cd811289017c5c5ef5b0b4a05173e438aa70ec5d0d",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZANNnAPhhQq2gNqbwx2vKdz68eysnYTgYe6IU4/tKggKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYTkzNDI2YmJjZmNlNWIzN2Q0NTg4OGZiN2U0NzNkYzQ3MGI4ODkxZGRhMTBlZTMyYmM5OWJjNjA3MGMzZGYwZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjQwMzRkOWMwM2UxODUwYWI2ODBkYTliYzMxZGFmMjlkY2ZhZjFlY2FjOWQ4NGUwNjFlZTg4NTM4ZmVkMmEwODBhIiwidWlkIjoiYzM0ZmYwMmU3NmRmYzJmNDVmZjVkYTU5N2U5N2JmMDAiLCJ1c2VybmFtZSI6ImFkYW1tZW5nZXMifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImJsb2cuYWRhbW1lbmdlcy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjYifSwiY3RpbWUiOjE0NTYwMzY5NzUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1NjAzNjc2NywiaGFzaCI6ImQ1YWEyNGQwN2I0YzllMGM3OWU5YWY1NTc1NjBlZGNkOTFmYmY3OWJlODE1NmMwYzVhMDNmNDFiZWIyN2FiZDk1YzY3MzZiMDI1YWZhOWZjZWRkYjUyNzIyODI2MTY1NzBjY2IxOWRmYzE2NTBiMjViZTdiYzI1NWZlMzA3MmEzIiwic2Vxbm8iOjM5MTA3OX0sInByZXYiOiI5OThjNDg2MmEwZjBjZmZmMTIwZmUzY2Q4MTEyODkwMTdjNWM1ZWY1YjBiNGEwNTE3M2U0MzhhYTcwZWM1ZDBkIiwic2Vxbm8iOjE4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCU4gj1MG5Fx3KU/lmbHWbRKaOrCIdgQyrWCstA6AbabC1xTwTrZ4ZoGymuAuxDySelQDkYCttbVpxv/tHY8rwuoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adammenges

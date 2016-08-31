@@ -1,0 +1,1 @@
+[blog.adammenges.com](http://blog.adammenges.com)
