@@ -2,16 +2,32 @@
 layout: default
 ---
 
-<div class="home">
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <!-- <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p> -->
-          <h3 class="h2 post-title">{{ post.title }}</h3>
-          <p class="post-summary">{{ post.summary }}</p>
-        </a>
-      </div>
-    {% endfor %}
-  </div>
+<div>
+	<img src="/images/me-c.png" alt="me">
+	<br />
+
+	<p>
+		Founder @ Lobe. Previously: @, @SendGrid.
+	</p>
+
+	<p>
+		Hacker since eight. Built network on a network (think IaaS), language processing, and license plate recognition software in college. I love doing intelligent things with data.
+	</p>
+
+	<p>
+		I've worked on a number of projects. Many know me as the creator of <a href="http://headline.adammenges.com">headline</a>. Others may know me, or rather my face, from a picture in a Hong Kong airport bookstore (I only found out about this recently).
+	</p>
+
+	<p>
+		I love chatting with new people. It's definitely one of life's great pleasures. If you'd like to get in touch, shoot me an email, <a href="mailto:adam@adammenges.com">adam@adammenges.com</a>, or send me a text, <a href="sms:720-484-0275">720-484-0275</a>. If sensitive, <a href="https://keybase.io/adammenges">encrypt</a>.
+	</p>
+
+<div class="links_big">
+	<center>
+		<a href="http://instagram.com/adammenges">Photos</a> <img src="/images/vert-line.png" alt="" style="display:inline; height:100px; top:40px; position:relative;"> <a href="https://medium.com/@adammenges">Writing</a>
+	</center>
+</div>
+<br />
+<br />
+<br />
 </div>
