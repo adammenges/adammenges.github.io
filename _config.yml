@@ -6,8 +6,6 @@ description: ""
 baseurl:     ""
 url:         "http://blog.adammenges.com"
 
-gems: [jekyll-paginate]
-
 # Google analytics
 google_analytics:
 
