@@ -24,7 +24,7 @@ This is a good sign. Already, and without much work, I can see clear points in t
 
 <div id="2" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
-Good to know. 
+Good to know.
 
 Looking back up at this graph and the one before though, one of the first thoughts I have looking at them are all the noisy emails in there. The marketing fluff. A simple way to remove this is ignoring all the email with a header `Precedence: Bulk`, high bulkscore, or the word bulk or bounce in the from or reply-to address, or had something like `*no*reply*@*` in there. Simple filtering, but seems to do a decent job, and it's as far as I'm willing to take it for now.
 
@@ -121,7 +121,7 @@ The results are very promising:
 
 Looking closely at these results, and over my own email, these are by far the best. Getting married, my job at Apple, graduating college, and any other events in my life that have resulted in congratulations from friends and family members over email are clearly shown.
 
-The 'qualified self' is very interesting to me. Email is a great place to start. I've also got all my IRC logs since the beginning of time. And now that Messages on OSX included SMSs, in a few years I could have a corpus of texts to analyze. I'm super interested in this. Texts likely say a whole lot more about my mood over time then email does, as the majority of my remote communication happens there. For those interested, something like this below could be used collect it. Along these same lines, [Stephen Wolfram's Personal Analytics](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) is a good read, and I'd watch a few of [these](http://vimeo.com/groups/quantifiedself) as well.
+The 'qualified self' is very interesting to me. Email is a great place to start. I've also got all my IRC logs since the beginning of time. And now that Messages on OSX included SMSs, of course along with the iMessages, in a few years I could have a corpus of chats to analyze. Facebook Messenger and others also make it easy to fetch chats from. I'm super interested in this. Texts likely say a whole lot more about my mood over time then email does, as the majority of my remote communication happens there. For those interested, something like this below could be used collect it. Along these same lines, [Stephen Wolfram's Personal Analytics](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) is a good read, and I'd watch a few of [these](http://vimeo.com/groups/quantifiedself) as well.
 
 ``` bash
 on write_to_file(this_data, event_description, target_file)
@@ -135,7 +135,7 @@ using terms from application "Messages"
   on message sent theMessage with eventDescription for theChat
     my write_to_file(theMessage, eventDescription, "/Users/adammenges/corpora/messages/" & theChat) -- TODO: pull name from theChat
   end message sent
-  
+
   on message received theMessage from theBuddy with eventDescription for theChat
     my write_to_file(theMessage, eventDescription, "/Users/adammenges/corpora/messages/" & theChat)
   end message received
@@ -144,7 +144,7 @@ end using terms from
 
 # Ending thoughts
 
-There are other neat things you could try to glean here. With whom do I have the strongest relationships? The worst? What kind of things am I interested in? From there, what's my mean purchase amount? My salary? Where have I traveled to? I wonder what forecasting you could do. Where am I most likely to travel to next? What am I most likely to buy?
+Next I'm going to try some 1D CNN approaches. There are also other neat things you could try to glean here. With whom do I have the strongest relationships? The worst? What kind of things am I interested in? From there, what's my mean purchase amount? My salary? Where have I traveled to? I wonder what forecasting you could do. Where am I most likely to travel to next? What am I most likely to buy?
 
 For those interested in seeing what all can be done here, first grab all the corpora linked to here, download your own email using something like this below, pull up ipython, `import sklearn`, and have fun!
 
@@ -173,7 +173,7 @@ def parse(message):
   msg = email.message_from_string(message)
   lhs = {}
   lhs['Date'] = dateutil.parser.parse(msg['Date'], fuzzy=True).strftime('%Y-%m-%d')
-  
+
   for part in msg.walk():
     if part.get_content_type() == 'text/plain':
       lhs['Body'] = BeautifulSoup(part.get_payload()).get_text()
