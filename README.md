@@ -1,1 +1,1 @@
-[blog.adammenges.com](http://blog.adammenges.com)
+[blog.adammenges.com](https://blog.adammenges.com)

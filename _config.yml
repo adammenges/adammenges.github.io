@@ -4,7 +4,9 @@ email:       adam@adammenges.com
 author:      Adam Menges
 description: ""
 baseurl:     ""
-url:         "http://blog.adammenges.com"
+url:         "https://blog.adammenges.com"
+
+enforce_ssl: blog.adammenges.com   # without any protocol
 
 # Google analytics
 google_analytics:

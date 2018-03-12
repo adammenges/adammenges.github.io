@@ -3,7 +3,7 @@ https://keybase.io/adammenges
 
 I hereby claim:
 
-  * I am an admin of http://blog.adammenges.com
+  * I am an admin of https://blog.adammenges.com
   * I am adammenges (https://keybase.io/adammenges) on keybase.
   * I have a public key ASBkA02cA-GFCraA2pvDHa8p3Prx7KydhOBh7ohTj-0qCAo
 
