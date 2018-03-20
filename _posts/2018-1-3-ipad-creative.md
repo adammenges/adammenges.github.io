@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      iOS Content Creation
+title:      Content Creation
 date:       2018-1-03
 summary:    I really only carry around my laptop for two reasons. Engineering work, and video/photo editing. Writing in my own opinion is actually very good, I typed up this whole article on my iPad for instance.
 permalink:  /ios-content-creation/
@@ -49,7 +49,7 @@ I also when to Banff 🇨🇦 recently, and again tried to see how far I could p
 
 ![](/images/banff.png)
 
-Photos edited and then later grouped together all on an iPadTurned out pretty good. Some of the edits with an Apple Pencil were even better and easier then they’d be if done on a desktop. So that’s awesome.
+Photos edited and then later grouped together all on an iPad. Turned out pretty good. Some of the edits with an Apple Pencil were even better and easier then they’d be if done on a desktop. So that’s awesome.
 
 Though there is still room for improvement. After doing this I had 20 copies of each image in the photos app, after moving from app to app to get the edits just right. I also ended up with some jpg artifacts I had to clean up. I’d also love to be able to import RAWs right from the sd card into the Files app without going through Photos. Mainly because I’ll edit the photos in an application that supports editing RAW¹ then save the final version into Photos. Photos doesn’t really let me tell which pictures are RAW and which aren’t. One step at I time I suppose.
 
