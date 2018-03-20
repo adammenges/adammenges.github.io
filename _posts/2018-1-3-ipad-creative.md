@@ -31,7 +31,7 @@ Also I wonder how much a visual programming language would work well with a touc
 
 Turns out with you do some pretty advanced things with a visual environment. Check out this project a friend of mine build, it's a Neural Network built entirely in Quartz Composer:
 
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"><center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eUEr4P_RWDA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"><center><iframe width="420" height="315" style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/eUEr4P_RWDA?rel=0" frameborder="0" allowfullscreen></iframe></center></div>
 
 <br />
 
