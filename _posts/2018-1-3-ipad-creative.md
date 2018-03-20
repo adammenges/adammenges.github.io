@@ -57,7 +57,7 @@ Again things are getting better here. The Files app is new. It just needs to get
 
 3rd party software is also a huge part of what’s lacking. For the most part the hardware is on par with Laptops²  —  Luckily Apple appears to be working on this as well. We’ll see what’s ready to show off at WWDC this year.
 
- — — — — — — — — — — — — — — 
+---
 
 Apendix:
 
