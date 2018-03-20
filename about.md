@@ -6,6 +6,8 @@ permalink: /about/
 ![mike](/images/circle-mike-me.png)
 <center><div style="font-size: 9px">(photo credit: [Mike Matas](http://www.mikematas.com))</div></center>
 
+<br />
+
 Founder @ Lobe Artificial Intelligence. Previously, @, @SendGrid.
 
 Hacker since eight. Built network on a network (think IaaS), language processing, and license plate recognition software in college.
