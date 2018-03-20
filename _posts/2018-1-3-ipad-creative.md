@@ -14,6 +14,7 @@ Five wishes I have for advancements in technology. Separated out into five parts
 I really only carry around my laptop for two reasons. Coding, and video editing. Photo editing has actually gotten quite good on iOS, though there of course is still room for improvement. I’ll get into this a bit later. Writing IMHO is actually very good. I typed up this whole article on my iPad.
 
 ### Traditional programming:
+
 This one has been on my wish list for awhile. In fact, I built a small prototype in college with [RubyMotion](http://www.rubymotion.com) with a server side component for coding on the iPad.
 Obviously, the paradigm would need to change, you can’t just give a user a on screen keyboard and tell them to type, that’s just less efficient then typing on a real keyboard. You’d need interactions like using two fingers to select text, swiping to indent, etc.
 
