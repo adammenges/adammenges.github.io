@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ![mike](/images/circle-mike-me.png)
-<center><div style="font-size: 9px">(photo credit: [Mike Matas](http://www.mikematas.com))</div></center>
+<center><div style="font-size: 9px">( photo credit: [Mike Matas](http://www.mikematas.com) )</div></center>
 
 <br />
 
