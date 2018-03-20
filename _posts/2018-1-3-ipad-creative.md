@@ -6,8 +6,6 @@ summary:    I really only carry around my laptop for two reasons. Engineering wo
 permalink:  /ios-content-creation/
 ---
 
-Technology Wishlist 2018 — Wish #1
-
 ![](https://cdn-images-1.medium.com/max/2000/0*iUBChDl0qm8IaItE.)
 
 I really only carry around my laptop for two reasons. Engineering work, and video/photo editing. Writing in my own opinion is actually very good, I typed up this whole article on my iPad for instance.
