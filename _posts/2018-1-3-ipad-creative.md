@@ -2,7 +2,7 @@
 layout:     post
 title:      iOS Content Creation
 date:       2018-1-03
-summary:    Five wishes I have for advancements in technology. Separated out into five parts. I really only carry around my laptop for two reasons. Coding, and video editing. Photo editing has actually gotten quite good on iOS, though there of course is still room for improvement. I’ll get into this a bit later. Writing IMHO is actually very good. I typed up this whole article on my iPad.
+summary:    I really only carry around my laptop for two reasons. Engineering work, and video/photo editing. Writing in my own opinion is actually very good, I typed up this whole article on my iPad for instance.
 permalink:  /ios-content-creation/
 ---
 
@@ -10,7 +10,7 @@ Technology Wishlist 2018 — Wish #1
 
 ![](https://cdn-images-1.medium.com/max/2000/0*iUBChDl0qm8IaItE.)
 
-I really only carry around my laptop for two reasons. Coding, and video editing. Photo editing has actually gotten quite good on iOS, though there of course is still room for improvement. I’ll get into this a bit later. Writing IMHO is actually very good. I typed up this whole article on my iPad.
+I really only carry around my laptop for two reasons. Engineering work, and video/photo editing. Writing in my own opinion is actually very good, I typed up this whole article on my iPad for instance.
 
 ### Traditional programming:
 
