@@ -64,7 +64,12 @@ Again things are getting better here. The Files app is new. It just needs to get
  — — — — — — — — — — — — — — 
 
 Apendix:
+
 1: Affinity Photo is awesome
+
 2: My Macbook’s Perf, My iPad’s Perf (iPad is better)
+
 3: JupyterLab is amazing, if you haven’t tried it, I highly recommend it. Very well done. Great work by the team.
+
 4: easily ish… haha
+
