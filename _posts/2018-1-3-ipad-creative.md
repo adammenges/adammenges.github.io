@@ -29,7 +29,7 @@ Along these lines, I wonder how much an touch optimized [JupyterLab³](https://g
 
 Also I wonder how much a visual programming language would work well with a touch interface. Something [QuartzComposer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_concepts/qc_concepts.html#//apple_ref/doc/uid/TP40005381-CH212-SW9) or [Origami](https://origami.design) inspired. It might even be a faster path to making sense with a touch interface then traditional code. Dragging around nodes/edges, or even many of them with multi-touch, could be far superior to a mouse based interface.
 
-Turns out with you do some pretty advanced things with such an environment. Check out this project a friend of mine build, it's a Neural Network built entirely in Quartz Composer:
+Turns out with you do some pretty advanced things with a visual environment. Check out this project a friend of mine build, it's a Neural Network built entirely in Quartz Composer:
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"><center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eUEr4P_RWDA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center></div>
 
