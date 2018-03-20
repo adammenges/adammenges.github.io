@@ -8,7 +8,9 @@ permalink: /about/
 
 <br />
 
-Computational Designer. Founder @ Lobe Artificial Intelligence. Previously, @, @SendGrid.
+Computational Designer.
+
+Founder @ Lobe Artificial Intelligence. Previously, @, @SendGrid.
 
 Many know me as the creator of [headline](http://headline.adammenges.com). Others may know me, or rather my face, from a big blown up picture in the Hong Kong airport (I only found out about this recently). Not really sure how it got there.
 
