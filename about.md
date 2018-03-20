@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ![mike](/images/circle-mike-me.png)
-(photo credit: (Mike Matas)[http://www.mikematas.com])
+<div style="font-size: 9px">(photo credit: [Mike Matas](http://www.mikematas.com))</div>
 
 Founder @ Lobe Artificial Intelligence. Previously, @, @SendGrid.
 
