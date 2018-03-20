@@ -7,6 +7,7 @@ permalink:  /ios-content-creation/
 ---
 
 Technology Wishlist 2017 — Wish #1
+
 Five wishes I have for advancements in technology. Separated out into five parts.
 
 ![](https://cdn-images-1.medium.com/max/2000/0*iUBChDl0qm8IaItE.)
