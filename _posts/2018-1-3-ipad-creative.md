@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Content Creation
+title:      iOS Content Creation
 date:       2018-1-03
 summary:    I really only carry around my laptop for two reasons. Engineering work, and video/photo editing. Writing in my own opinion is actually very good, I typed up this whole article on my iPad for instance.
 permalink:  /ios-content-creation/
