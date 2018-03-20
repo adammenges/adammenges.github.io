@@ -15,7 +15,7 @@ I really only carry around my laptop for two reasons. Coding, and video editing.
 
 ### Engineering Work
 
-#### Traditional programming:
+##### Traditional programming:
 This one has been on my wish list for awhile. In fact, I built a small prototype in college with [RubyMotion](http://www.rubymotion.com) with a server side component for coding on the iPad.
 Obviously, the paradigm would need to change, you can’t just give a user a on screen keyboard and tell them to type, that’s just less efficient then typing on a real keyboard. You’d need interactions like using two fingers to select text, swiping to indent, etc.
 
@@ -25,7 +25,7 @@ My point with all that is simply that even the most terse languages are verbose,
 
 There seems to the progress here. Apple is allowing 3rd parties to run more code on device, for instance. The iPad playgrounds app is quite nice to see, too.
 
-#### Interactive programming:
+##### Interactive programming:
 
 Along these lines, I wonder how much an touch optimized [JupyterLab³](https://github.com/jupyterlab/jupyterlab) could make since here. Potentially gets around any need to run code on device. Also it’s a crazy neat piece of sofware. Go check it out.
 
@@ -34,6 +34,8 @@ Along these lines, I wonder how much an touch optimized [JupyterLab³](https://g
 Also I wonder how much a visual programming language would work well with a touch interface. Something [QuartzComposer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_concepts/qc_concepts.html#//apple_ref/doc/uid/TP40005381-CH212-SW9) or [Origami](https://origami.design) inspired. It might even be a faster path to making sense with a touch interface then traditional code. Dragging around nodes/edges, or even many of them with multi-touch, could be far superior to a mouse based interface.
 
 Turns out with you do some pretty advanced things with such an environment. [Check out this Neural Network built entirely in Quartz Composer done by a friend of mine.](https://www.youtube.com/watch?v=eUEr4P_RWDA)Pretty impressive stuff.
+
+<br />
 
 ### Visual Work:
 
