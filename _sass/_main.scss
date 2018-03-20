@@ -170,7 +170,6 @@ table {
 
 .post-footer {
   @extend .italic;
-
   margin-top: .75rem;
   text-align: center;
 }
@@ -353,7 +352,7 @@ h6,
 
   .h1,
   h1 {
-    margin-top: 1rem; 
+    margin-top: 1rem;
     font-size: 3.250rem;
   }
 
@@ -364,8 +363,8 @@ h6,
 
   .h3,
   h3 {
+    margin-top: 1rem;
     font-size: 1.625rem;
-    margin-bottom: 12px;
   }
 
   .h4,
