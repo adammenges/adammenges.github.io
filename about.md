@@ -12,6 +12,6 @@ Computational Designer.
 
 Founder @ Lobe Artificial Intelligence. Previously, @, @SendGrid.
 
-Many know me as the creator of [headline](http://headline.adammenges.com). Others may know me, or rather my face, from a big blown up picture in the Hong Kong airport (I only found out about this recently). Not really sure how it got there.
+Many know me as the creator of [headline](http://headline.adammenges.com), and more recently [Lobe](https://lobe.ai/). Others may know me, or rather my face, from a big blown up picture in the Hong Kong airport (I only found out about this recently). Not sure how it got there.
 
 I love chatting with new people. If you'd like to get in touch, shoot me an email, <adam@adammenges.com>, or send me a text, [720-484-0275](sms:720-484-0275). I guess [Telegram](http://t.me/adammenges) is also a thing. If sensitive, [encrypt](https://keybase.io/adammenges).
