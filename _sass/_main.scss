@@ -454,7 +454,6 @@ h6,
     float: left;
     text-align: center;
     margin-top: 0.666em;
-    margin-bottom: 1.333em;
   }
 
   .social-icons .left, .social-icons .right {
@@ -464,8 +463,9 @@ h6,
 }
 
 @media screen and (min-width: 64em) {
-  .h1,
-  h1 {}
+  // .h1, h1 {
+  //
+  // }
 
   .h2,
   h2 {
