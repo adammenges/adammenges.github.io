@@ -1,18 +1,18 @@
 # Site settings
-title:       adammenges
-email:       adam@adammenges.com
-author:      Adam Menges
+title: adammenges
+email: adam@adammenges.com
+author: Adam Menges
 description: ""
-baseurl:     ""
-url:         "http://blog.adammenges.com"
+baseurl: ""
+url: "https://blog.adammenges.com"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
+animated: true
 show_related_posts: false
-show_post_footers:  false
+show_post_footers: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -31,8 +31,8 @@ paypal_url:
 flattr_button:
 
 # Build settings
-permalink:    pretty
-paginate:     10000
+permalink: pretty
+paginate: 10000
 sass:
   compressed: true
 include: ["keybase.txt"]
